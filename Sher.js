@@ -89,3 +89,4 @@ function Kiemtrathongtin()
 	return true;
 	
 }
+
